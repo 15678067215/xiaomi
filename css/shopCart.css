@@ -1,0 +1,220 @@
+.header{
+	width: 1519px;
+	height: 102px;
+	background: #fff;
+	border-bottom: 2px solid #ff6700;
+}
+ .main{
+	 margin: 0 auto;
+	width: 1226px;
+}
+.main .h{
+	display: flex;
+	justify-content: space-between;
+	font-size: 12px;
+    color: #b0b0b0;
+	width: 1226px;
+	
+	height: 74px;
+}
+.left p{
+	text-align: center;
+	line-height: 48px;
+	font-size: 14px;
+	margin-top:26px;
+	width: 48px;
+	height: 48px;
+	background-color: #ff6700;
+}
+.left .my {
+	display: flex;
+	margin-left: 88px;
+	margin-top: -54px;
+	width: 491px;
+	height: 48px;
+	line-height: 60px;
+}
+.left .my h1{
+	font-weight:400px;
+	 color: #424242;
+}
+.my span{
+	font-size: 12px;
+	margin-left: 15px;
+     color: #757575;   
+}
+.right{
+	 padding-top: 40px;
+	line-height: 50px;
+	float: right;
+	width: 71.24px;
+	height: 40px;
+}
+.min{
+	width: 1226px;
+	background-color: beige;
+}
+.foot{
+
+height: 330px;
+/* background-color: bisque; */
+}
+.serve{
+	height: 79px;
+	border-bottom: 1px solid gainsboro;
+}
+.serve ul{
+	padding-top: 22.5px;
+	display: flex;
+	height: 25px;
+	line-height: 25px;
+}
+.serve ul li{
+	text-align: center;
+	border-left: 1px solid gainsboro;
+	flex: 1;
+	height: 25px;
+}
+.serve ul li:nth-child(1){
+	border-left: none;
+}
+.serve a{
+	font-size: 16px;
+}
+.help{
+	
+	display: flex;
+	height: 250px;
+	
+}
+.help dl{
+	margin-top: 67.5px;
+	width: 160px;
+	height: 114.6px;
+}
+.help dl dt{
+	margin: -1px 0 26px;
+	 font-size: 14px;
+	 line-height: 1.25;
+	  color: #424242;
+}
+.help dl dd a{
+	color: #757575;
+}
+.help .right{
+	padding-top: 0;
+	margin-top: 67.5px;
+	border-left: 1px solid gainsboro;
+	width: 252px;
+	height: 110.2px;
+	text-align: center;
+}
+.help .right p:nth-child(1){
+	width: 252px;
+	line-height: 22px;
+	margin-top: 5px;
+	height: 22px;
+	font-size: 22px;
+	 color: #ff6700;
+}
+.help .right p:nth-child(2){
+	width: 252px;
+	line-height: 18px;
+	margin-top: 5px;
+	height: 18px;
+	font-size: 12px;
+	 color: gray;
+}
+.help .right .a{
+	width: 120px;
+	height: 30px;
+	display: block;
+	border: 1px solid #ff6700;
+	background: #fff;
+	color: #ff6700;
+	text-align: center;
+   line-height: 30px;
+   margin-left: 64px;
+}
+.help .right .a:hover{
+	color: white;
+	background-color: #ff6700;
+}
+.help .right span{
+	margin-top: 10px;
+	line-height: 21px;
+	display: block;
+	width: 250px;
+	height: 21px;
+}
+.bot{
+	padding: 30px 0;
+	font-size: 12px;
+	background: #fafafa;
+	height: 245px;
+}
+.top{
+	height: 88px;
+	/* padding-left: 67px; */
+}
+.top .tu{
+	float: left;
+	width: 57px;
+	height: 57px;
+	background-color: #ff6700 ;
+}
+.top .P {
+	width: 1150px;
+	color: #757575;
+	margin-left: 67px;
+	height: 18px;
+	line-height: 18px;
+}
+.top .P a:hover{
+	color: #ff6700;
+}
+.top p:nth-child(2){
+	margin-left: 67px;
+	height: 19px;
+}
+.top .pp{
+	height: 70px;
+	margin-left:67px;
+}
+.bb{
+	
+	height: 40px;
+}
+.bb a:nth-child(1) img{
+	margin-top: 6px;
+	margin-left: 67px;
+	width: 83px;
+	height: 28px;
+}
+.bb a:nth-child(2) img{
+	margin-top: 6px;
+	width: 83px;
+	height: 28px;
+}
+.bb a:nth-child(3) img{
+	margin-top: 6px;
+	width: 85px;
+	height: 28px;
+}
+.bb a:nth-child(4) img{
+	margin-top: 6px;
+	width: 85px;
+	height: 28px;
+}
+.bb a:nth-child(5) img{
+	width: 105.6px;
+	height: 40px;
+}
+.slogan {
+	font-size: 18px;
+	text-align: center;
+	margin: 30px auto 0;
+	 width: 100%;
+	 height: 19px;
+	 color:gainsboro;
+}

@@ -1,0 +1,265 @@
+
+.header{
+	width: 1519px;
+	height: 98px;
+}
+.main{
+	margin: auto;
+	width: 1226px;
+}
+.main .logo{
+	background-color: #0;
+	width: 200px;
+	height: 98px;
+	
+}
+
+.box{
+	margin: auto;
+	width: 1519px;
+	height: 588px;
+	background-color: #e7ffff;
+}
+/* .box .main{
+	position: relative;
+} */
+.box .main img{
+	width: 784.5PX;
+	 height: 328.5PX;
+	 margin-top: 128px;
+}
+.biao{
+	background-color: white;
+	width: 410px;
+	height: 528.4px;
+	margin:40px 6px 0 0px;
+	float: right;
+}
+.biao form{
+	width: 410px;
+	height: 528.4px;
+}
+.biao .tou{
+	display: flex;
+	justify-content: space-around;
+	width: 410px;
+	height: 83px;
+	line-height: 83px;
+	padding-right: 25px;
+}
+.biao span{
+	color: gray;
+	font-size: 24px;
+}
+.biao .tou a{
+	font-size: 24px;
+}
+.biao .tou a{
+	margin: 0 50px;
+}
+.biao .tou a:nth-child(1){
+	color: red;
+}
+.biao .tou #saoma:hover{
+	color: red;
+}
+.biao .bo{
+	
+	width: 348px;
+	height: 445px;
+	margin-left: 31px;
+}
+.shu{
+	width: 348px;
+	height: 114px;
+	
+}
+.phone{
+	height: 50px;
+	width: 340px;
+	border: 1px solid gainsboro;
+}
+.phone span{
+	font-size: 14px;
+	color: grey;
+	display: block;
+	line-height: 54.6px;
+	text-align: center;
+	width: 54.6px;
+	height: 48px;;
+}
+#num{
+	padding-left: 20px;
+	margin-top: -48px;
+	float: right;
+	border: none;
+	border-left:1px solid gainsboro ;
+	width: 241.8px;
+    height: 48px;;
+}
+.number{
+	margin-top: 14px;
+	height: 48px;
+	width: 340px;
+	border: 1px solid gainsboro;
+}
+.number p{
+	display: flex;
+	height: 50px;
+	width: 340px;
+}
+.number p #mess {
+	padding-left: 15px;
+	line-height: 48px;
+	border: none;
+	width: 220px;
+	height: 48px;
+}
+.number p span{
+	display: block;
+	width: 111px;
+	height: 48px;
+	line-height: 48px;
+	text-align: center;
+	border-left: 1px solid gainsboro;
+}
+.number p span a{
+	color: #0000FF;
+	display: block;
+	font-size:14px;
+	width: 90px;
+	height: 16px;
+}
+#login-button{
+	   background-color: #ff6700;
+	   width: 100%;
+	    height: 50px;
+	    line-height: 50px;
+	    display: block;
+	    text-align: center;
+	    font-size: 14px;
+	    color: #fff;
+	    cursor: pointer;
+		border: none;
+		margin-top: 24px;
+}
+.bottom{
+	width: 348px;
+	height: 248.4px;
+}
+.bottom span{
+	line-height: 19.2px;
+	text-align: center;
+	cursor: pointer;
+	height: 19.2px;
+}
+.bottom span a{
+	margin-left: 120px;
+	text-align: center;
+	color: #ff6700;
+	font-size: 16px;
+}
+.bottom .forget{
+	margin:34px 0 0 116px;
+	color: gray;
+	width: 348px;
+	height: 19.2px;
+}
+.bottom .forget span{
+	font-size: 15px;
+	color: gray;
+}
+.bottom .forget a{
+	color:grey;
+	font-size: 15px;
+}
+.bottom .forget a:hover{
+	color: #ff6700;
+}
+.kong{
+	width: 348px;
+	height: 180px;
+}
+.kong .dibu{
+	height: 37px;
+	position: relative;
+	bottom: -102px;
+	background-color: #000000;
+}
+#sao{
+    width: 410px;
+	height:524.5px;	
+	position: relative;
+	left: 810px;
+    top: -415px;
+	display: none;
+}
+#sao .tou{
+	display: flex;
+	justify-content: space-around;
+	width: 410px;
+	height: 83px;
+	line-height: 83px;
+	padding-right: 25px;
+}
+#sao span{
+	color: gray;
+	font-size: 24px;
+}
+#sao .tou a{
+	font-size: 24px;
+}
+#sao .tou a{
+	margin: 0 50px;
+}
+#sao .tou a:nth-child(1){
+	color: red;
+}
+#sao .tou #s{
+	color: gray;
+}
+#sao .tou #s:hover{
+	color: red;
+}
+#saoma{
+	width: 410px;
+	height: 474px;
+}
+
+#saoma .ma{
+	color: gainsboro;
+	height: 474px;
+}
+#saoma .ma.er{
+	width: 180px;
+	height: 180px;
+}
+ #saoma .ma .er img{
+	margin:138px 0 18px 115px;
+	width: 180px;
+	height: 180px;
+}
+#saoma .ma .er p{
+	text-align: center;
+	line-height: 19.2px;
+	height: 19.2px;
+	 color:#757575;
+	 font-size: 14px 
+}
+
+ #saoma .ma .er p span{
+	font-size: 14px;
+	padding: 0 5px;
+	    color: #ff6700;
+}
+footer{
+	margin-top: 90px;
+	height: 90px;
+	
+}
+.copyright{
+	height: 34.5px;
+	text-align:center;
+	color: #757575;
+	font-size: 14px;
+}
